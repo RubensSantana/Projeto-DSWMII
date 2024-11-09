@@ -1,13 +1,13 @@
 {
   "type": "service_account",
   "project_id": "letras-e-lendas",
-  "private_key_id": "fc7621866c15e6b3ae64976e572fc2b876afb0f7",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCMU/J4vJ2nY2lf\n0wsTVSnz4U3uMsqaEqcENrKB7/ovs3Ahr7yCoGOytV8OLkjEMo+BqsR7lxtWVpMe\nowv5AggfTCH+zRA1LIApKn9WBiCRWNrqDztq4dLfo1KGsBvLDbsLfotKpLjQdYEC\nnY/IjhRjixpChnpvWesfdeSSBbhlXWjJe17n5Rc7bMvTYBMohQEXbRcbmF/yl+4y\nx6WYNnFvzbuknOL0KEO9tFZn/sSSx2qGj7spjrjOQT+TPLMcXjBa7Y6MAVYBRk8B\njRtdQYxtLlgrwgTLxjgKzqaQLlyZaU4tl1VwluCA65zVMS19FRok3o4LBKqZszWg\ngSOioq5JAgMBAAECggEALrR4BNheLoqnVUXkL0yOmIW6Dtgn14zyurPLyPSK1BqI\nbSXU+7MPS7kTCKC+BlL/sXwZRjs+VYeeErnYr8mN04De5bPxu4jypQDofcSvTUEC\nJ5nnQEUmDtoIixyNO5F32jUFflQB0Rvy0uCHLQyg25q+JDsm/+2xFHkEGNe/jjjB\nCXoj1BoHgisS4IcWmeWNQeeZgoRVlzJqvEnmSNEr83vRJbNCvoUt0EhyynzBW3Df\np8wKCxoYeL5n/ftTjA0zW0dsXkLI7Y9+l5tUwwDXaDjsTOr5hPFEPim94j6gK2X7\nVkDKq0zY+7HyS07+TO2U1kkGljJxclMEovJn4j36MwKBgQDBJ273ACeUJMV97Xss\nANStLjt/GZyrBJ4D45lPnEj2YTWFHck/Rlmgsfg8I/qlWhfAc3qQUhAUeH3eXbbB\nltCIuwwg6H8SbxirXkr9X2BaQaqd5bJXa/g94ABt2kgztsDV57xX6RMlohayCqvs\nQbq5ZhinHD63n3pIJ89sJNbTmwKBgQC5/GqlP55AOtX6uJYS8BR4+xZoTcdWdQhb\nkaSAuzm3ler5+npqA8byFcKskoCunUUsT65mR3DMSZ4SpaGfleSy5Ebnve/5N4h+\nozfU7cOvlZQL+/pY2wiIpFYHUvAN8zjjonW8TaRpmG6Kbq4OGmqPLQm9ayG1WjV3\nQdB5VW+96wKBgHS82YLtE/6kLrxKIGxa4C7+xzStDRQLSVk+YHVOFobZ/5fBhdT5\nNsg5Z7cpY542Ei7dXFEHV/KXVDNl3kOoW8aXjeABxHMms/k2lwoFb9183JprrdrK\nRZFX5cp+565hoLBnS1yyYEEZcrAOZRP4MdtFilbNalZeS3B6pxFMPo5LAoGBAK5r\n8UAkl684/nByKBx+l1SWdf8/4lBM1Ze60QIBlDF+Ia5qn99Ix41FpxrdEl2wFK1n\n1PEK0thjuiFWwGq/0omK2IyBbsrUr+fD/ppsmXbT2tIacEBgunIbXKrlt0f98D5b\nn/sG/cgiMpkVD5seXw0Defzwud4wSbAcQv1niLIdAoGBAJjbk/Dz9HoavLpoMBJS\n5o5TaOVKFBfSs9+NviILDl0KTo6E6zlZ1odE3mzkgyDSqdYSKhHt8WkQLv5QVXIb\nfyZoeE7NnlVFvE3xa/rQFxKyG9IRnZVT2+AM1j+INcCURDUvGhBrPnXY4qDZE+fB\n2co1CtA9czhPiEjJuI4qyGst\n-----END PRIVATE KEY-----\n",
-  "client_email": "firebase-adminsdk-yn6bh@letras-e-lendas.iam.gserviceaccount.com",
-  "client_id": "102219044543882437646",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-yn6bh%40letras-e-lendas.iam.gserviceaccount.com",
-  "universe_domain": "googleapis.com"
+  "private_key_id": " ",
+  "private_key": " ",
+  "client_email": " ",
+  "client_id": " ",
+  "auth_uri": " ",
+  "token_uri": " ",
+  "auth_provider_x509_cert_url": " ",
+  "client_x509_cert_url": " ",
+  "universe_domain": " "
 }
