@@ -1,0 +1,5 @@
+/* Estilo adicional para o botão Sair */
+.navbar .btn-outline-light:hover {
+    background-color: #f8f9fa;
+    color: #343a40;
+}

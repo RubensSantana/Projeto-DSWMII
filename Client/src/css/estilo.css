@@ -1,0 +1,15 @@
+.fixed-buttons {
+    position: fixed;
+    top: 70px;    /* Distância do topo da tela */
+    right: 20px;  /* Distância da borda direita da tela */
+    z-index: 1000; /* Garantir que os botões fiquem sobre outros elementos */
+}
+
+.fixed-buttons .btn {
+    margin-bottom: 20px; /* Espaço entre os botões */
+}
+
+/* Garantir que os botões fiquem um ao lado do outro */
+.fixed-buttons .btn + .btn {
+    margin-left: 10px; /* Adiciona espaço entre os botões */
+}
